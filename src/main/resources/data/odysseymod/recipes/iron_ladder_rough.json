@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "odysseymod:iron_ladder"
+	},
+	"result": "odysseymod:iron_ladder_rough",
+	"experience": 0,
+	"cookingtime": 200
+}

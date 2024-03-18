@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "odysseymod:fireplace_guard"
+	},
+	"result": "odysseymod:rough_fireplace_guard",
+	"experience": 0,
+	"cookingtime": 200
+}

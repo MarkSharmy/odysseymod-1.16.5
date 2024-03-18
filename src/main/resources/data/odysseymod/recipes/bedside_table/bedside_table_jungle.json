@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "odysseymod:jungle_vertical_slab"
+		},
+		{
+			"item": "odysseymod:jungle_vertical_slab"
+		},
+		{
+			"item": "odysseymod:jungle_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_jungle"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_jungle",
+		"count": 1
+	}
+}

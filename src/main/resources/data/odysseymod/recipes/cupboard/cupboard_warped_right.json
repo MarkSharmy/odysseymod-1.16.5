@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["CP","CP"],
+	"key":
+	{
+		"P":
+		{
+			"item": "odysseymod:warped_vertical_slab"
+		},
+		"C":
+		{
+			"tag": "forge:chests/wooden"
+		}
+	},
+	"result":{
+		"item": "odysseymod:cupboard_warped",
+		"count": 1
+	}
+}

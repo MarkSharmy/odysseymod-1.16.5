@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "iceandfire:amythest_gem"
+        }
+    },
+    "result": {
+        "item": "odysseymod:amethyst_block",
+        "count": 1
+    }
+}

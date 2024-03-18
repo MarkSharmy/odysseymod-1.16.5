@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "state=none": { "model": "odysseymod:block/hedge/hedge_none_dark_oak"},
+        
+        "state=straight_z": { "model": "odysseymod:block/hedge/hedge_straight_dark_oak"},
+        "state=straight_x": { "model": "odysseymod:block/hedge/hedge_straight_dark_oak", "y": 90},
+        
+        "state=corner_nw": { "model": "odysseymod:block/hedge/hedge_corner_dark_oak"},
+        "state=corner_ne": { "model": "odysseymod:block/hedge/hedge_corner_dark_oak", "y": 90},
+        "state=corner_sw": { "model": "odysseymod:block/hedge/hedge_corner_dark_oak", "y": 270},
+        "state=corner_se": { "model": "odysseymod:block/hedge/hedge_corner_dark_oak", "y": 180},
+        
+        
+        "state=tcross_n": { "model": "odysseymod:block/hedge/hedge_tcross_dark_oak"},
+        "state=tcross_w": { "model": "odysseymod:block/hedge/hedge_tcross_dark_oak", "y": 270},
+        "state=tcross_s": { "model": "odysseymod:block/hedge/hedge_tcross_dark_oak", "y": 180},
+        "state=tcross_e": { "model": "odysseymod:block/hedge/hedge_tcross_dark_oak", "y": 90},
+        
+        "state=cross": { "model": "odysseymod:block/hedge/hedge_cross_dark_oak"}
+    }
+}

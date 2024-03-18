@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["PP" ],
+	"key":
+	{
+		"P":
+		{
+			"item": "odysseymod:prismarine_bricks_vertical_slab"
+		}
+	},
+	"result":{
+		"item": "minecraft:prismarine_bricks",
+		"count": 1
+	}
+}

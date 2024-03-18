@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "odysseymod:oak_vertical_slab"
+		},
+		{
+			"item": "odysseymod:oak_vertical_slab"
+		},
+		{
+			"item": "odysseymod:oak_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_oak"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_oak",
+		"count": 1
+	}
+}

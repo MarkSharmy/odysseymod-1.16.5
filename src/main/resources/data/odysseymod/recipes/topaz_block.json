@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "odysseymod:topaz"
+        }
+    },
+    "result": {
+        "item": "odysseymod:topaz_block",
+        "count": 1
+    }
+}

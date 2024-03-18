@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "odysseymod:block/fireplace_guard/rough_fireplace_guard", "y":180 },
+        "facing=west": { "model": "odysseymod:block/fireplace_guard/rough_fireplace_guard", "y":90 },
+        "facing=south": { "model": "odysseymod:block/fireplace_guard/rough_fireplace_guard" },
+        "facing=east": { "model": "odysseymod:block/fireplace_guard/rough_fireplace_guard", "y":270 }
+    }
+}

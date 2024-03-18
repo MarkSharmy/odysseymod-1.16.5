@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "odysseymod:iron_fence"
+	},
+	"result": "odysseymod:iron_fence_rough",
+	"experience": 0.15,
+	"cookingtime": 200
+}

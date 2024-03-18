@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[" W ","PWP","S S"],
+	"key":
+	{
+		"S":
+		{
+			"tag": "forge:rods/iron"
+		},
+		"W":
+		{
+			"item": "minecraft:red_wool"
+		},
+		"P":
+		{
+			"item": "odysseymod:pillow_red"
+		}
+	},
+	"result":{
+		"item": "odysseymod:sofa_red",
+		"count": 1
+	}
+}

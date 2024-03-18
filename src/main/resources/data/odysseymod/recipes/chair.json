@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  i",
+        "SSS",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:oak_fence"
+        },
+        "S": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "odysseymod:chair",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "odysseymod:block/other/speaker", "y":180 },
+        "facing=west": { "model": "odysseymod:block/other/speaker", "y":90 },
+        "facing=south": { "model": "odysseymod:block/other/speaker" },
+        "facing=east": { "model": "odysseymod:block/other/speaker", "y":270 }
+    }
+}

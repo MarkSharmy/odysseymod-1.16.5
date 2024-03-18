@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "odysseymod:acacia_vertical_slab"
+		},
+		{
+			"item": "odysseymod:acacia_vertical_slab"
+		},
+		{
+			"item": "odysseymod:acacia_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_acacia"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_acacia",
+		"count": 1
+	}
+}

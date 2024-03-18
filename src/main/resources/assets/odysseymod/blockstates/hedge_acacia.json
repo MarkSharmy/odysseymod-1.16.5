@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "state=none": { "model": "odysseymod:block/hedge/hedge_none_acacia"},
+        
+        "state=straight_z": { "model": "odysseymod:block/hedge/hedge_straight_acacia"},
+        "state=straight_x": { "model": "odysseymod:block/hedge/hedge_straight_acacia", "y": 90},
+        
+        "state=corner_nw": { "model": "odysseymod:block/hedge/hedge_corner_acacia"},
+        "state=corner_ne": { "model": "odysseymod:block/hedge/hedge_corner_acacia", "y": 90},
+        "state=corner_sw": { "model": "odysseymod:block/hedge/hedge_corner_acacia", "y": 270},
+        "state=corner_se": { "model": "odysseymod:block/hedge/hedge_corner_acacia", "y": 180},
+        
+        
+        "state=tcross_n": { "model": "odysseymod:block/hedge/hedge_tcross_acacia"},
+        "state=tcross_w": { "model": "odysseymod:block/hedge/hedge_tcross_acacia", "y": 270},
+        "state=tcross_s": { "model": "odysseymod:block/hedge/hedge_tcross_acacia", "y": 180},
+        "state=tcross_e": { "model": "odysseymod:block/hedge/hedge_tcross_acacia", "y": 90},
+        
+        "state=cross": { "model": "odysseymod:block/hedge/hedge_cross_acacia"}
+    }
+}

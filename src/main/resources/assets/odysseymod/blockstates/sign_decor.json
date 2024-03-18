@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "odysseymod:block/sign_decor" },
+		"facing=east": { "model": "odysseymod:block/sign_decor", "y": 90  },
+		"facing=south": { "model": "odysseymod:block/sign_decor", "y": 180  },
+		"facing=west": { "model": "odysseymod:block/sign_decor", "y": 270  }
+	}
+}

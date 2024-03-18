@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "odysseymod:blocks/inn_door_lower",
+        "top": "odysseymod:blocks/inn_door_upper"
+    }
+}

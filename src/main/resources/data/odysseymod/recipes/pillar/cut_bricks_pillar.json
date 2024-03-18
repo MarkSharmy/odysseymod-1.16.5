@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:bricks"
+	},
+	"result": "odysseymod:cut_bricks_pillar",
+	"count": 1
+}

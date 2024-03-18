@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:obsidian",
+		"odysseymod:amythest_block",
+		"odysseymod:ruby_block",
+		"odysseymod:topaz_block",
+		"odysseymod:amythest_ore",
+		"odysseymod:ruby_ore",
+		"odysseymod:topaz_ore"
+	]
+}

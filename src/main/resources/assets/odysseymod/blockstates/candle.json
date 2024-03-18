@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "odysseymod:block/other/wall_candle", "y":180 },
+        "facing=west": { "model": "odysseymod:block/other/wall_candle", "y":90 },
+        "facing=south": { "model": "odysseymod:block/other/wall_candle" },
+        "facing=east": { "model": "odysseymod:block/other/wall_candle", "y":270 },
+        "facing=down": { "model": "odysseymod:block/other/floor_candle" }
+    }
+}

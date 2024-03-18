@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "odysseymod:block/sign_brewery" },
+		"facing=east": { "model": "odysseymod:block/sign_brewery", "y": 90  },
+		"facing=south": { "model": "odysseymod:block/sign_brewery", "y": 180  },
+		"facing=west": { "model": "odysseymod:block/sign_brewery", "y": 270  }
+	}
+}

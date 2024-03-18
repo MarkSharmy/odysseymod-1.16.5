@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "state=none": { "model": "odysseymod:block/pillar/cut_smooth_sandstone_pillar"},
+        "state=bottom": { "model": "odysseymod:block/pillar/cut_smooth_sandstone_pillar_bottom"},
+        "state=top": { "model": "odysseymod:block/pillar/cut_smooth_sandstone_pillar_top"},
+        "state=both": { "model": "odysseymod:block/pillar/cut_smooth_sandstone_pillar_both"}
+    }
+}

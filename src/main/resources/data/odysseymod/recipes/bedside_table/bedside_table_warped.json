@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "odysseymod:warped_vertical_slab"
+		},
+		{
+			"item": "odysseymod:warped_vertical_slab"
+		},
+		{
+			"item": "odysseymod:warped_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_warped"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_warped",
+		"count": 1
+	}
+}

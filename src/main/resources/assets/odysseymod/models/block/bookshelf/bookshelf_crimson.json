@@ -1,0 +1,7 @@
+{
+  "parent": "odysseymod:block/bookshelf/bookshelf_base",
+  "textures": {
+        "planks": "minecraft:block/crimson_planks",
+        "particle": "minecraft:block/crimson_planks"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	"odysseymod:acacia_vertical_slab",
+	"odysseymod:birch_vertical_slab",
+	"odysseymod:dark_oak_vertical_slab",
+	"odysseymod:oak_vertical_slab",
+	"odysseymod:spruce_vertical_slab",
+	"odysseymod:jungle_vertical_slab",
+	"odysseymod:crimson_vertical_slab",
+	"odysseymod:warped_vertical_slab"
+  ]
+}

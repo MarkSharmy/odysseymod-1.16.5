@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+		    "item": "minecraft:gold_ingot"
+		},
+		{
+		    "item": "odysseymod:large_soul_candle"
+		}
+	],
+	"result":{
+		"item": "odysseymod:soul_candle",
+		"count": 2
+	}
+}

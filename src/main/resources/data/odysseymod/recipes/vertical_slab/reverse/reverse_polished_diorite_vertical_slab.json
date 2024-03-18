@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["PP" ],
+	"key":
+	{
+		"P":
+		{
+			"item": "odysseymod:polished_diorite_vertical_slab"
+		}
+	},
+	"result":{
+		"item": "minecraft:polished_diorite",
+		"count": 1
+	}
+}

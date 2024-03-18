@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "odysseymod:block/other/large_candle" },
+			{ "model": "odysseymod:block/other/large_candle", "y": 90 },
+			{ "model": "odysseymod:block/other/large_candle", "y": 180 },
+			{ "model": "odysseymod:block/other/large_candle", "y": 270 }
+        ]
+    }
+}

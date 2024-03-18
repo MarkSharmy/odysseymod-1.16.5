@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "state=none": { "model": "odysseymod:block/pillar/cut_quartz_pillar"},
+        "state=bottom": { "model": "odysseymod:block/pillar/cut_quartz_pillar_bottom"},
+        "state=top": { "model": "odysseymod:block/pillar/cut_quartz_pillar_top"},
+        "state=both": { "model": "odysseymod:block/pillar/cut_quartz_pillar_both"}
+    }
+}

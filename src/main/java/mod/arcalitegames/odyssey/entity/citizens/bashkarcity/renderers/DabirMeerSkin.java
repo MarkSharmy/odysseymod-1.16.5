@@ -1,0 +1,26 @@
+package mod.arcalitegames.odyssey.entity.citizens.bashkarcity.renderers;
+
+import mod.arcalitegames.OdysseyMod;
+import mod.arcalitegames.odyssey.entity.citizens.bashkarcity.entities.DabirMeer;
+import mod.arcalitegames.odyssey.entity.model.CitizenModel;
+import net.minecraft.client.renderer.entity.EntityRendererManager;
+import net.minecraft.client.renderer.entity.MobRenderer;
+import net.minecraft.util.ResourceLocation;
+
+public class DabirMeerSkin extends MobRenderer<DabirMeer, CitizenModel<DabirMeer>>
+{
+	public static final ResourceLocation TEXTURE = new ResourceLocation(OdysseyMod.MODID, "textures/entity/bashkarcity/dabir_meer.png");
+	
+	public DabirMeerSkin(EntityRendererManager renderManagerIn)
+	{
+		super(renderManagerIn, new CitizenModel<>(), 0.5F);
+	}
+
+	@Override
+	public ResourceLocation getEntityTexture(DabirMeer entity)
+	{
+		return TEXTURE;
+	}
+	
+	
+}

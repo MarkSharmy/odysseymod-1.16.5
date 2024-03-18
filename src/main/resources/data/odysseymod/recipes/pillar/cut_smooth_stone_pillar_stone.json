@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:stone"
+	},
+	"result": "odysseymod:cut_smooth_stone_pillar",
+	"count": 1
+}

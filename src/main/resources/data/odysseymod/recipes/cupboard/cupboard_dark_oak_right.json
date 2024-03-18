@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["CP","CP"],
+	"key":
+	{
+		"P":
+		{
+			"item": "odysseymod:dark_oak_vertical_slab"
+		},
+		"C":
+		{
+			"tag": "forge:chests/wooden"
+		}
+	},
+	"result":{
+		"item": "odysseymod:cupboard_dark_oak",
+		"count": 1
+	}
+}

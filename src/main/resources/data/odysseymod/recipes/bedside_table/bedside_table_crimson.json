@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "odysseymod:crimson_vertical_slab"
+		},
+		{
+			"item": "odysseymod:crimson_vertical_slab"
+		},
+		{
+			"item": "odysseymod:crimson_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_crimson"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_crimson",
+		"count": 1
+	}
+}

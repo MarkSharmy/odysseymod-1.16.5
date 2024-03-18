@@ -1,0 +1,10 @@
+{
+	"variants": 
+	{
+		"facing=north": { "model": "odysseymod:block/chest_marker1" },
+		"facing=east": { "model": "odysseymod:block/chest_marker1", "y": 90 },
+		"facing=south": { "model": "odysseymod:block/chest_marker1", "y": 180 },
+		"facing=west": { "model": "odysseymod:block/chest_marker1", "y": 270 }
+		
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "odysseymod:block/shelf/shelf_spruce", "y":180 },
+        "facing=west": { "model": "odysseymod:block/shelf/shelf_spruce", "y":90 },
+        "facing=south": { "model": "odysseymod:block/shelf/shelf_spruce" },
+        "facing=east": { "model": "odysseymod:block/shelf/shelf_spruce", "y":270 }
+    }
+}

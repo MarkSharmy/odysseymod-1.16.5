@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "quark:oak_vertical_slab"
+		},
+		{
+			"item": "quark:oak_vertical_slab"
+		},
+		{
+			"item": "quark:oak_vertical_slab"
+		},
+		{
+			"item": "odysseymod:table_oak"
+		}
+	],
+	"result":{
+		"item": "odysseymod:bedside_table_oak",
+		"count": 1
+	},
+	"conditions": [ {
+		"type": "forge:mod_loaded",
+		"modid": "quark"
+    }
+  ]}

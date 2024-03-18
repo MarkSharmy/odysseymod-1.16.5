@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "odysseymod:block/sign_fletcher" },
+		"facing=east": { "model": "odysseymod:block/sign_fletcher", "y": 90  },
+		"facing=south": { "model": "odysseymod:block/sign_fletcher", "y": 180  },
+		"facing=west": { "model": "odysseymod:block/sign_fletcher", "y": 270  }
+	}
+}

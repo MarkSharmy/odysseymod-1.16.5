@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "odysseymod:block/sign_general_goods" },
+		"facing=east": { "model": "odysseymod:block/sign_general_goods", "y": 90  },
+		"facing=south": { "model": "odysseymod:block/sign_general_goods", "y": 180  },
+		"facing=west": { "model": "odysseymod:block/sign_general_goods", "y": 270  }
+	}
+}

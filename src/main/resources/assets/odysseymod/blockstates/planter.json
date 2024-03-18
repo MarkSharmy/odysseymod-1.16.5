@@ -1,0 +1,6 @@
+{
+    "variants": {
+    	"type=dirt": { "model": "odysseymod:block/other/planter_dirt"},
+    	"type=farmland": { "model": "odysseymod:block/other/planter"}
+    }
+}

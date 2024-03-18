@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "odysseymod:block/sign_produce" },
+		"facing=east": { "model": "odysseymod:block/sign_produce", "y": 90  },
+		"facing=south": { "model": "odysseymod:block/sign_produce", "y": 180  },
+		"facing=west": { "model": "odysseymod:block/sign_produce", "y": 270  }
+	}
+}

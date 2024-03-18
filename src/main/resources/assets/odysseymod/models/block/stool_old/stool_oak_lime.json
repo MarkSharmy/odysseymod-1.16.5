@@ -1,0 +1,8 @@
+{
+  "parent": "odysseymod:block/stool/stool_base",
+  "textures": {
+        "wool": "minecraft:block/lime_wool",
+        "planks": "minecraft:block/oak_planks",
+        "particle": "minecraft:block/oak_planks"
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	["SS","PW"],
+	"key":
+	{
+		"S":
+		{
+			"item": "minecraft:oak_slab"
+		},
+		"P":
+		{
+			"item": "odysseymod:oak_vertical_slab"
+		},
+		"W":
+		{
+			"tag": "forge:rods/wooden"
+		}
+	},
+	"result":{
+		"item": "odysseymod:support_bracket_oak",
+		"count": 4
+	}
+}

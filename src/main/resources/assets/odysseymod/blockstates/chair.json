@@ -1,0 +1,15 @@
+{
+	"variants": 
+	{
+		"facing=north,occupied=false": { "model": "odysseymod:block/chair" },
+		"facing=east,occupied=false": { "model": "odysseymod:block/chair", "y": 90 },
+		"facing=south,occupied=false": { "model": "odysseymod:block/chair", "y": 180 },
+		"facing=west,occupied=false": { "model": "odysseymod:block/chair", "y": 270 },
+		
+		"facing=north,occupied=true": { "model": "odysseymod:block/chair" },
+		"facing=east,occupied=true": { "model": "odysseymod:block/chair", "y": 90 },
+		"facing=south,occupied=true": { "model": "odysseymod:block/chair", "y": 180 },
+		"facing=west,occupied=true": { "model": "odysseymod:block/chair", "y": 270 }
+		
+	}
+}
